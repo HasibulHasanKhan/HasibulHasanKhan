@@ -4,7 +4,7 @@
 
 
 
-Skills:  / REACT / JS /TAILWIND/ HTML / CSS
+Skills:  / REACT / JS /TAILWIND/ HTML / CSS / JAVA
 
 
 
