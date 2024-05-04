@@ -1,10 +1,6 @@
 ![Front-End-Developer](https://images.pexels.com/photos/6113097/pexels-photo-6113097.jpeg?auto=compress&cs=tinysrgb&w=600)
 ### Hi there 👋, Hasibul Hasan Khan
-#### Front-End-Developer
 
-
-
-Skills:  / REACT / JS /TAILWIND/ HTML / CSS / JAVA
 
 
 
