@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Hasibul Hasan Khan
 
-I'm a passionate **Data Analyst** and **Full-Stack Developer** who loves turning data into actionable insights and building web applications that solve real-world problems.
+Leverage my data analytical skills to transform raw data into insights that drive real-world decisions.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a passionate **Data Analyst** and **Full-Stack Developer** who loves turning
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Business Acumen](https://img.shields.io/badge/Business%20Acumen-008080?style=for-the-badge&logo=briefcase&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Others
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -32,17 +32,15 @@ I'm a passionate **Data Analyst** and **Full-Stack Developer** who loves turning
 ---
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning
-- Full-Stack Project Architectures  
+- Domain & Business Knowledge
+
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hasibulhasankhan/))  
 
 ---
 
-## ⚡ Fun Fact
-I love combining **data insights** with **interactive web apps** to create impactful solutions!
+
 
