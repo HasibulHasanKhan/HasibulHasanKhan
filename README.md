@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋, I'm Hasibul Hasan Khan
 
+I'm a passionate **Data Analyst** and **Full-Stack Developer** who loves turning data into actionable insights and building web applications that solve real-world problems.
 
-**HasibulHasanKhan/HasibulHasanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 💻 Data & Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F88017?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=chart&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F61?style=for-the-badge&logo=data:image/png;base64)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Business Acumen](https://img.shields.io/badge/Business%20Acumen-008080?style=for-the-badge&logo=briefcase&logoColor=white)
+
+### 🌐 Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=swagger&logoColor=white)
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Full-Stack Project Architectures  
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
+## ⚡ Fun Fact
+I love combining **data insights** with **interactive web apps** to create impactful solutions!
 
