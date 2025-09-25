@@ -17,7 +17,6 @@ Leverage my data analytical skills to transform raw data into insights that driv
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=chart&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F61?style=for-the-badge&logo=data:image/png;base64)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Business Acumen](https://img.shields.io/badge/Business%20Acumen-008080?style=for-the-badge&logo=briefcase&logoColor=white)
 
 ### 🌐 Others
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
