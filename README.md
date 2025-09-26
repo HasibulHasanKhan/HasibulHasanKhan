@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 
-<img align="right" alt="Daily Work"  src="https://i.imgur.com/uhZdH9C.gif" width="450" height="370" />
+<img align="right" alt="Daily Work"  src="https://i.imgur.com/uhZdH9C.gif" width="450" height="470" />
 
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
