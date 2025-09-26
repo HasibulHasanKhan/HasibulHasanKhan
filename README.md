@@ -6,17 +6,17 @@
 
 ## 🛠️ Skills
 
-### 💻 Data & Analytics
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F88017?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=chart&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F61?style=for-the-badge&logo=data:image/png;base64)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 📊 Data & Analytics
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
+![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
 
 ---
 
@@ -28,6 +28,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+---
 
 ### ⚙️ Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
