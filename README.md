@@ -18,7 +18,7 @@ Data Analyst.
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F61?style=for-the-badge&logo=data:image/png;base64)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🌐 Others
+### 🌐 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
