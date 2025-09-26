@@ -6,36 +6,33 @@ Leverage my data analytical skills to transform raw data into insights that driv
 
 ## 🛠️ Skills
 
-### 💻 Data & Analytics
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F88017?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=chart&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6F61?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge)
+### 📊 Data & Analytics
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
+![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
+
 
 ### 🌐 Others
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=swagger&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
 
 ### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🌱 Currently Learning
-- Domain & Business Knowledge
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibulhasankhan/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasibulhasankhan2/)
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Hasib2277)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/hasibulhasankhan/)
+[![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/hasibulhasankhan2/)
+[![X (Twitter)](https://img.shields.io/badge/-X-000?&logo=X&logoColor=white)](https://x.com/Hasib2277)
+
