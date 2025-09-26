@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hasibul Hasan Khan
+# Hi there, I'm Hasibul Hasan Khan
 
 **Data Analyst**
 
@@ -36,6 +36,6 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibulhasankhan/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasibulhasankhan2/)
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hasib2277)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/hasibulhasankhan/)
+[![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/hasibulhasankhan2/)
+[![X (Twitter)](https://img.shields.io/badge/-X-000?&logo=X&logoColor=white)](https://x.com/Hasib2277)
