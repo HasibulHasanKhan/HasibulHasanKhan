@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-<div align="center">
+<div align="right">
    <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
 </div>
 
