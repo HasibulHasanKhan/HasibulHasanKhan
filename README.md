@@ -1,6 +1,6 @@
 # Hi there , I'm Hasibul Hasan Khan
 
-Leverage my data analytical skills to transform raw data into insights that drive real-world decisions.
+Data Analyst.
 
 ---
 
