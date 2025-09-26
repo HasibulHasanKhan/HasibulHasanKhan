@@ -50,7 +50,7 @@
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hasibulhasankhan/)
 [![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=facebook&logoColor=1877F2)](https://www.facebook.com/hasibulhasankhan2/)
-[![X (Twitter)](https://img.shields.io/badge/-X-000?&logo=x&logoColor=white)](https://x.com/Hasib2277)
+[!(https://x.com/Hasib2277)
 
 
 
