@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Hasibul Hasan Khan  
-
-**Data Analyst | Turning Data into Actionable Insights**  
+# Hi there 👋, I'm Hasibul Hasan Khan  
+**Data Analyst**  
 
 ---
 
@@ -36,6 +35,6 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibulhasankhan/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hasibulhasankhan2/)  
-[![X (Twitter)](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://x.com/Hasib2277)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hasibulhasankhan/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?&logo=Facebook&logoColor=white)](https://www.facebook.com/hasibulhasankhan2/)  
+[![X (Twitter)](https://img.shields.io/badge/-X-000?&logo=Twitter&logoColor=white)](https://x.com/Hasib2277)  
