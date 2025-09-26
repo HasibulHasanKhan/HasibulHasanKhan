@@ -6,6 +6,8 @@
 
 ## 🛠️ Skills
 
+<img align="right" alt="Daily Work"  src="https://i.imgur.com/uhZdH9C.gif" width="500" height="320" />
+
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -31,9 +33,6 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-<div align="right">
-   <img alt="Daily Work" height="180px" src="https://i.imgur.com/uhZdH9C.gif" />
-</div>
 
 ---
 
