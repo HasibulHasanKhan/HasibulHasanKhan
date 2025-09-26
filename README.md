@@ -1,6 +1,6 @@
 # Hi there, I'm Hasibul Hasan Khan
 
-## **DATA ANALYST**
+## **Data Analyst**
 
 ---
 
