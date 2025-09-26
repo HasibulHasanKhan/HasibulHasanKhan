@@ -17,12 +17,16 @@
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
 
+---
 
 ### 🌐 Others
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
 ![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
+
+---
 
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
