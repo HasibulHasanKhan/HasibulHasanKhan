@@ -8,6 +8,11 @@
 
 <img align="right" alt="Daily Work"  src="https://i.imgur.com/uhZdH9C.gif" width="420" height="320" />
 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
+
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
