@@ -6,7 +6,7 @@
 
 ## 🛠️ Skills
 
-<img align="right" alt="Daily Work"  src="https://i.imgur.com/uhZdH9C.gif" width="420" height="320" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
