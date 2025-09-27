@@ -11,12 +11,11 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C)
+
 
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
