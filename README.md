@@ -4,14 +4,13 @@
 
 ---
 
-## 🛠️ Skills
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<img align="right" alt="Daily Work"  src="https://i.imgur.com/uhZdH9C.gif" width="420" height="320" />
+<div>
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
 
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
@@ -24,18 +23,23 @@
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
 
-
 ### 🌐 Others
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
 ![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
 
-
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
+</div>
+
+<div>
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320" style="display:block; margin:auto;" />
+</div>
+
+</div>
 
 ---
 
