@@ -4,9 +4,9 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
 
-<div>
+<div style="flex: 1;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -35,8 +35,8 @@
 
 </div>
 
-<div>
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320" style="display:block; margin:auto;" />
+<div style="margin-left: 20px;">
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320" />
 </div>
 
 </div>
