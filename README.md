@@ -4,7 +4,7 @@
 
 ---
 
-<table>
+<table style="width: 100%;">
 <tr>
 <td style="vertical-align: middle;">
 
@@ -35,8 +35,8 @@
 
 </td>
 
-<td style="vertical-align: middle; text-align: center; width: 440px;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320"/>
+<td style="vertical-align: middle; text-align: center; width: 50%;">
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto;" />
 </td>
 </tr>
 </table>
