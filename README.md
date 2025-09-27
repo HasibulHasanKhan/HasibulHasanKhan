@@ -4,8 +4,9 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 40px; align-items: center;">
 
+<!-- Left Column: Skills -->
 <div style="flex: 1;">
 
 ### 💻 Programming Languages
@@ -35,7 +36,8 @@
 
 </div>
 
-<div style="margin-left: 20px;">
+<!-- Right Column: GIF -->
+<div style="flex-shrink: 0; display: flex; align-items: center;">
 <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320" />
 </div>
 
