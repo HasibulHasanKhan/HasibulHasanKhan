@@ -37,7 +37,7 @@
 </div>
 
 <!-- Right Column: GIF -->
-<div style="flex-shrink: 0; display: flex; align-items: center;">
+<div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
 <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320" />
 </div>
 
