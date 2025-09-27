@@ -4,10 +4,9 @@
 
 ---
 
-<div style="display: flex; gap: 40px; align-items: center;">
-
-<!-- Left Column: Skills -->
-<div style="flex: 1;">
+<table>
+<tr>
+<td style="vertical-align: middle;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -34,14 +33,13 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-</div>
+</td>
 
-<!-- Right Column: GIF -->
-<div style="flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320" />
-</div>
-
-</div>
+<td style="vertical-align: middle; text-align: center; width: 440px;">
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" width="420" height="320"/>
+</td>
+</tr>
+</table>
 
 ---
 
