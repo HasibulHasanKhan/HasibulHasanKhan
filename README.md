@@ -33,6 +33,10 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
+### 📝 Notes & Note-Taking Apps
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
+![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=Microsoft-OneNote&logoColor=purple)
+
 </td>
 
 <td style="vertical-align: middle; text-align: center; width: 50%;">
