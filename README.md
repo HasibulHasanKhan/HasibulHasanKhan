@@ -3,6 +3,7 @@
 **📊 Data & Business Analyst**
 
 ---
+## 🛠️ Skills
 
 <table style="width: 100%;">
 <tr>
