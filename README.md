@@ -11,10 +11,10 @@
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### 📊 Data & Analytics
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
@@ -22,6 +22,18 @@
 ![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
+
+### **Statistics & Probability:**
+![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-000?&logo=google-analytics) 
+![Distributions](https://img.shields.io/badge/-Distributions-000?&logo=google-analytics) 
+![Regression](https://img.shields.io/badge/-Regression-000?&logo=google-analytics) 
+
+### **Data Cleaning & Wrangling:**
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks) 
+![Data Wrangling](https://img.shields.io/badge/-Data%20Wrangling-000?&logo=tableau) 
+![Handling Missing Values](https://img.shields.io/badge/-Missing%20Values-000?&logo=google-analytics) 
+![Outliers](https://img.shields.io/badge/-Outliers-000?&logo=google-analytics) 
+![Duplicates](https://img.shields.io/badge/-Duplicates-000?&logo=google-analytics) 
 
 ### 🌐 Others
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -32,6 +44,7 @@
 ### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) 
 
 ### 📝 Notes & Note-Taking Apps
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
