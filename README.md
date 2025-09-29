@@ -35,12 +35,6 @@
 ![Outliers](https://img.shields.io/badge/-Outliers-000?&logo=google-analytics) 
 ![Duplicates](https://img.shields.io/badge/-Duplicates-000?&logo=google-analytics) 
 
-### 🌐 Others
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
-![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
-
 ### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
@@ -49,6 +43,12 @@
 ### 📝 Notes & Note-Taking Apps
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=Microsoft-OneNote&logoColor=purple)
+
+### 🌐 Others
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
+![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
 
 </td>
 
