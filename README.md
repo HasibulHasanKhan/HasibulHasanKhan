@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
 ![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
 
-### 🔧 Tools & Version Control
+### 🛠️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
