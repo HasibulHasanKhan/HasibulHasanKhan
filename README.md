@@ -57,7 +57,7 @@
 </td>
 
 <td style="vertical-align: middle; text-align: center; width: 40%;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto;" />
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 80%; height: auto;" />
 </td>
 </tr>
 </table>
