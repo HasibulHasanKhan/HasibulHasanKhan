@@ -8,30 +8,53 @@
 <tr>
 <td style="vertical-align: middle;">
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+### 🧩 Core Technical Skills  
 
-### 📊 Data & Analytics
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
-![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
+**Programming:**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 
-### 🌐 Others
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
-![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
+**Libraries & Frameworks:**  
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)  
+![React.js](https://img.shields.io/badge/-React-000?&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-### ⚙️ Tools & Version Control
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+**Visualization:**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=python)  
+![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=plotly)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)  
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)  
+
+**Statistics & Probability:**  
+![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-000?&logo=google-analytics)  
+![Distributions](https://img.shields.io/badge/-Distributions-000?&logo=google-analytics)  
+![Regression](https://img.shields.io/badge/-Regression-000?&logo=google-analytics)  
+
+**Data Cleaning & Wrangling:**  
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)  
+![Data Wrangling](https://img.shields.io/badge/-Data%20Wrangling-000?&logo=tableau)  
+![Handling Missing Values](https://img.shields.io/badge/-Missing%20Values-000?&logo=google-analytics)  
+![Outliers](https://img.shields.io/badge/-Outliers-000?&logo=google-analytics)  
+![Duplicates](https://img.shields.io/badge/-Duplicates-000?&logo=google-analytics)  
+
+### ⚙️ Tools & Version Control  
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)  
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)  
+
+### 📝 Notes & Note-Taking Apps  
+
+![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white)  
+![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=Microsoft-OneNote&logoColor=purple)  
+
 
 </td>
 
