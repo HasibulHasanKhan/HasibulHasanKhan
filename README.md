@@ -6,7 +6,7 @@
 
 <table style="width: 100%;">
 <tr>
-<td style="vertical-align: middle;">
+ <td style="vertical-align: middle; width: 60%; padding-right: 10px;">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
@@ -57,8 +57,8 @@
 </td>
 
 <td style="vertical-align: middle; text-align: center; width: 40%;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 80%; height: auto;" />
-</td>
+    <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto;" />
+  </td>
 </tr>
 </table>
 
