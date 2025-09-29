@@ -24,12 +24,12 @@
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
 
-### **Statistics & Probability:**
+### *📈 Statistics & Probability
 ![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-000?&logo=google-analytics) 
 ![Distributions](https://img.shields.io/badge/-Distributions-000?&logo=google-analytics) 
 ![Regression](https://img.shields.io/badge/-Regression-000?&logo=google-analytics) 
 
-### **Data Cleaning & Wrangling:**
+### 🧹 Data Cleaning & Wrangling
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks) 
 ![Data Wrangling](https://img.shields.io/badge/-Data%20Wrangling-000?&logo=tableau) 
 ![Handling Missing Values](https://img.shields.io/badge/-Missing%20Values-000?&logo=google-analytics) 
