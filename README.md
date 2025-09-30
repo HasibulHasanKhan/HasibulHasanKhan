@@ -29,19 +29,10 @@
 ![Distributions](https://img.shields.io/badge/-Distributions-000?&logo=google-analytics) 
 ![Regression](https://img.shields.io/badge/-Regression-000?&logo=google-analytics) 
 
-### 🧹 Data Cleaning & Wrangling
-![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks) 
-![Data Wrangling](https://img.shields.io/badge/-Data%20Wrangling-000?&logo=tableau) 
-![Handling Missing Values](https://img.shields.io/badge/-Missing%20Values-000?&logo=google-analytics) 
-![Outliers](https://img.shields.io/badge/-Outliers-000?&logo=google-analytics) 
-![Duplicates](https://img.shields.io/badge/-Duplicates-000?&logo=google-analytics) 
-
 ### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) 
-
-### 📝 Notes & Note-Taking Apps
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=Microsoft-OneNote&logoColor=purple)
 
