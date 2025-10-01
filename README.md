@@ -34,10 +34,11 @@
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 
 ### 🌐 Others
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
-![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
+![React](https://img.shields.io/badge/-React-000?&logo=React)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)  
+![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)  
+![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON&logoColor=white)
 
 ---
 
