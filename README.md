@@ -28,7 +28,6 @@
 ### ⚙️ Tools & Version Control  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) 
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=microsoftonenote&logoColor=purple) 
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoftpowerpoint&logoColor=orange) 
