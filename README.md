@@ -25,14 +25,14 @@
 ![Distributions](https://img.shields.io/badge/-Distributions-000?&logo=google-analytics) 
 ![Regression](https://img.shields.io/badge/-Regression-000?&logo=google-analytics) 
 
-### ⚙️ Tools & Version Control
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+### ⚙️ Tools & Version Control  
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS) 
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
-![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=Microsoft-OneNote&logoColor=purple)  
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=Microsoft-PowerPoint&logoColor=orange)  
-![Word](https://img.shields.io/badge/-Word-000?&logo=Microsoft-Word&logoColor=blue)  
+![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=Microsoft-OneNote&logoColor=purple) 
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=Microsoft-PowerPoint&logoColor=orange) 
+![Word](https://img.shields.io/badge/-Word-000?&logo=Microsoft-Word&logoColor=blue) 
 
 ### 🌐 Others
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
