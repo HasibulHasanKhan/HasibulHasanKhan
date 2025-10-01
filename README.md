@@ -5,10 +5,6 @@
 ---
 ## 🛠️ Skills
 
-<table style="width: 100%;">
-<tr>
-<td style="vertical-align: middle;">
-
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -41,11 +37,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=47A248)
 ![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
-
-</td>
-</tr>
-</table>
-
 
 ---
 
