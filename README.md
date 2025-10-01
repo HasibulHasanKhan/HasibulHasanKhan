@@ -1,4 +1,4 @@
-# Greetings, I’m Hasibul Hasan Khan
+# Greetings, I’m Hasib
 
 **📊 Data & Business Analyst**
 
