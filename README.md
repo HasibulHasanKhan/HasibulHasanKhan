@@ -43,12 +43,9 @@
 ![APIs](https://img.shields.io/badge/-APIs-000?&logo=Swagger)
 
 </td>
-
-<td style="vertical-align: middle; text-align: center; width: 50%;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto;" />
-</td>
 </tr>
 </table>
+
 
 ---
 
