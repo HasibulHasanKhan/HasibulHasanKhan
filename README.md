@@ -1,6 +1,6 @@
 # Greetings, I’m Hasib
 
-**📊 Data & Business Analyst**
+**📊 Data & Business Analytics**
 
 ---
 ## 🛠️ Skills
