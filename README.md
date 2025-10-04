@@ -1,4 +1,4 @@
-# Greetings, I’m - Hasib
+# ✨ Greetings, I’m Hasib
 **📊 Data & Business Analytics**
 
 ---
