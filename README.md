@@ -1,6 +1,5 @@
-# Hi there, I'm Hasibul Hasan Khan
-
-**📊 Data & Business Analyst**
+# Greetings, I’m - Hasib
+**📊 Data & Business Analytics**
 
 ---
 
