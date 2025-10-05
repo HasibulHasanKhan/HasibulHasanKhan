@@ -20,6 +20,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn&logoColor=4EABCF)
 ![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
