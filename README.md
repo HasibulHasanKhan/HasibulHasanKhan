@@ -3,9 +3,10 @@
 
 ---
 
-<table style="width: 100%;">
-<tr>
-<td style="vertical-align: middle;">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+
+<!-- Left Column -->
+<div style="flex: 1 1 300px; min-width: 300px; padding: 10px;">
 
 ## 📚 Knowledge & Learning 
 
@@ -39,15 +40,14 @@
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 
----
+</div>
 
-</td>
+<!-- Right Column -->
+<div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: center;">
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto; border-radius: 10px;" />
+</div>
 
-<td style="vertical-align: middle; text-align: center; width: 50%;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto;" />
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
