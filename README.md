@@ -1,12 +1,6 @@
-# ✨ Greetings
-**📊 Data & Business Analytics**
-
----
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-
-<!-- Left Column -->
-<div style="flex: 1 1 400px; min-width: 300px;">
+<table style="width: 100%;">
+<tr>
+<td style="vertical-align: middle;">
 
 ## 📚 Knowledge & Learning 
 
@@ -40,18 +34,12 @@
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 
-</div>
-
-<!-- Right Column -->
-<div style="flex: 1 1 400px; min-width: 300px; text-align: center;">
-<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto; border-radius: 10px;" />
-</div>
-
-</div>
-
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/hasibulhasankhan/)
-[![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/hasibulhasankhan2/)
-[![X (Twitter)](https://img.shields.io/badge/-X-000?&logo=X&logoColor=white)](https://x.com/Hasib2277)
+</td>
+
+<td style="vertical-align: middle; text-align: center; width: 50%;">
+<img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto;" />
+</td>
+</tr>
+</table>
