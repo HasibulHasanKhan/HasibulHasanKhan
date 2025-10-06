@@ -1,4 +1,4 @@
-# ✨✨✨  Greetings...  ✨✨✨
+# ✨  Greetings...  ✨
 **📊 Data & Business Analytics**
 
 ---
