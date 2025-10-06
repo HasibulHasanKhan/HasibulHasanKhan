@@ -3,10 +3,10 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
 
 <!-- Left Column -->
-<div style="flex: 1 1 300px; min-width: 300px; padding: 10px;">
+<div style="flex: 1 1 400px; min-width: 300px;">
 
 ## 📚 Knowledge & Learning 
 
@@ -43,7 +43,7 @@
 </div>
 
 <!-- Right Column -->
-<div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: center;">
+<div style="flex: 1 1 400px; min-width: 300px; text-align: center;">
 <img src="https://i.imgur.com/uhZdH9C.gif" alt="Daily Work" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </div>
 
