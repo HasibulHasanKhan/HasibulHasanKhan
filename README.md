@@ -1,5 +1,5 @@
 # ✨  Greetings...  ✨
-**📊 Data & Business Analytics**
+**📊 Transforming raw data into meaningful insights that inform business decisions.**
 
 ---
 
