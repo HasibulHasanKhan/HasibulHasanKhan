@@ -24,6 +24,8 @@
 ![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-bigquery&logoColor=F2C811)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=snowflake&logoColor=33CCFF)
 
 ### 💻 Tech Stack & Platforms
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
@@ -32,7 +34,6 @@
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=green)
 ![API](https://img.shields.io/badge/-API-000?&logo=swagger&logoColor=blue)
 
 ### ⚙️ Tools & Version Control  
