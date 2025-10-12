@@ -25,19 +25,16 @@
 ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
 
-### 📈 Statistics & Probability
-![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-000?&logo=google-analytics) 
-![Distributions](https://img.shields.io/badge/-Distributions-000?&logo=google-analytics) 
-![Regression](https://img.shields.io/badge/-Regression-000?&logo=google-analytics) 
-
-### ⚙️ Tools & Version Control  
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
+### 📈Tech Stack & Platforms 
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=microsoftonenote&logoColor=purple) 
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoftpowerpoint&logoColor=orange) 
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
+
+### ⚙️ Tools & Version Control  
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
 
 </td>
 
