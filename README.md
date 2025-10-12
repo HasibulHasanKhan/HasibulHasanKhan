@@ -37,6 +37,7 @@
 ![API](https://img.shields.io/badge/-API-000?&logo=swagger&logoColor=blue)
 ![Fivetran](https://img.shields.io/badge/-Fivetran-000?&logo=fivetran&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/-Airbyte-000?&logo=airbyte&logoColor=blue)
+![Talend](https://img.shields.io/badge/-Talend-000?&logo=talend&logoColor=white)
 
 ### ⚙️ Tools & Version Control  
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
