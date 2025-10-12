@@ -17,7 +17,6 @@
 ### 📈 Data & Analytics Platforms
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
@@ -32,6 +31,7 @@
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoftpowerpoint&logoColor=orange) 
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=green)
 ![API](https://img.shields.io/badge/-API-000?&logo=swagger&logoColor=blue)
 
