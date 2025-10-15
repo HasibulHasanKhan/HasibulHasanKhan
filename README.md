@@ -27,7 +27,6 @@
 ![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-bigquery&logoColor=F2C811)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=snowflake&logoColor=33CCFF)
 
-### 💻 Tech Stack & Platforms
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=microsoftonenote&logoColor=purple) 
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoftpowerpoint&logoColor=orange) 
@@ -35,6 +34,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
 ![API](https://img.shields.io/badge/-API-000?&logo=swagger&logoColor=blue)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=orange)
 ![Fivetran](https://img.shields.io/badge/-Fivetran-000?&logo=fivetran&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/-Airbyte-000?&logo=airbyte&logoColor=blue)
 ![Talend](https://img.shields.io/badge/-Talend-000?&logo=talend&logoColor=white)
