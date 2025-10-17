@@ -7,7 +7,7 @@
 <tr>
 <td style="vertical-align: middle;">
 
-## 📚 Knowledge & Learning 
+## 📚 Knowledge & Thriving
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
