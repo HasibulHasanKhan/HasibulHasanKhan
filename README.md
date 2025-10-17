@@ -7,14 +7,14 @@
 <tr>
 <td style="vertical-align: middle;">
 
-## 📚 Knowledge & Thriving :
+## 📚 Knowledge & Thriving
 
-### 💻 Programming Languages :
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### 📈 Data & Analytics Platforms :
+### 📈 Data & Analytics Platforms
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
@@ -27,7 +27,7 @@
 ![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-bigquery&logoColor=F2C811)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=snowflake&logoColor=33CCFF)
 
-### 🔗 Productivity & Data Integration :
+### 🔗 Productivity & Data Integration
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=microsoftonenote&logoColor=purple) 
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoftpowerpoint&logoColor=orange) 
@@ -40,7 +40,7 @@
 ![Fivetran](https://img.shields.io/badge/-Fivetran-000?&logo=fivetran&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/-Airbyte-000?&logo=airbyte&logoColor=blue)
 
-### ⚙️ Tools & Version Control :
+### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) 
 
