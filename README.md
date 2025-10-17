@@ -27,7 +27,7 @@
 ![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-bigquery&logoColor=F2C811)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=snowflake&logoColor=33CCFF)
 
-### 🔗 Productivity, Databases & Data Integration
+### 🔗 Productivity & Data Integration
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
 ![OneNote](https://img.shields.io/badge/-OneNote-000?&logo=microsoftonenote&logoColor=purple) 
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoftpowerpoint&logoColor=orange) 
