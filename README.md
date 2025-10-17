@@ -7,7 +7,7 @@
 <tr>
 <td style="vertical-align: middle;">
 
-## <p align="center">📚 Tech Stack & Tools </p>
+## 📚 Tech Stack & Tools 
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
