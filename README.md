@@ -35,10 +35,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
 ![API](https://img.shields.io/badge/-API-000?&logo=swagger&logoColor=blue)
-![Talend](https://img.shields.io/badge/-Talend-000?&logo=talend&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=orange)
-![Fivetran](https://img.shields.io/badge/-Fivetran-000?&logo=fivetran&logoColor=white)
-![Airbyte](https://img.shields.io/badge/-Airbyte-000?&logo=airbyte&logoColor=blue)
 
 ### ⚙️ Tools & Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) 
