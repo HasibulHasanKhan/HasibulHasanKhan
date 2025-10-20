@@ -1,7 +1,5 @@
 # ✨  Greetings...  ✨
 
----
-
 <table style="width: 100%;">
 <tr>
 <td style="vertical-align: middle;">
