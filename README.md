@@ -1,5 +1,4 @@
 # ✨  Greetings...  ✨
-**📊 Transforming raw data into meaningful insights that inform business decisions.**
 
 ---
 
