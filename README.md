@@ -31,6 +31,7 @@
 ![Word](https://img.shields.io/badge/-Word-000?&logo=microsoftword&logoColor=blue) 
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=JSON)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=green)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=green)
 ![API](https://img.shields.io/badge/-API-000?&logo=swagger&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman&logoColor=orange)
 
