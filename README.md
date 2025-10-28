@@ -4,7 +4,7 @@
 <tr>
 <td style="vertical-align: middle;">
 
-## 📚 Tech Stack & Tools 
+## 📚 Careers of Expertise
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
