@@ -4,7 +4,7 @@
 <tr>
 <td style="vertical-align: middle;">
 
-## 👀 
+## 🔍🔍🔍
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
