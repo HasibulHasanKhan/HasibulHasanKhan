@@ -13,15 +13,15 @@
 ### 📈 Data & Analytics Platforms
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI&logoColor=F2C811)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
+![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-bigquery&logoColor=F2C811)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn&logoColor=4EABCF)
-![Statistics](https://img.shields.io/badge/-Statistics-000?&logo=google-analytics&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-000?&logo=databricks)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-000?&logo=tableau)
-![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=google-bigquery&logoColor=F2C811)
-![Snowflake](https://img.shields.io/badge/-Snowflake-000?&logo=snowflake&logoColor=33CCFF)
+
 
 ### 🔗 Productivity & Data Integration
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=Notion&logoColor=white) 
